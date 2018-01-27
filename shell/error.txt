@@ -1,0 +1,48 @@
+* Rebuilt URL to: GET/
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Could not resolve host: GET
+* Closing connection 0
+curl: (6) Could not resolve host: GET
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 54.173.209.251...
+* TCP_NODELAY set
+* Connected to dev-spring-boot-elb-901372289.us-east-1.elb.amazonaws.com (54.173.209.251) port 80 (#1)
+> GET /api/exemplo/daniel HTTP/1.1
+> Host: dev-spring-boot-elb-901372289.us-east-1.elb.amazonaws.com
+> User-Agent: curl/7.52.1
+> Accept: */*
+> 
+< HTTP/1.1 200 
+< Date: Fri, 26 Jan 2018 18:55:16 GMT
+< Content-Type: text/plain;charset=UTF-8
+< Content-Length: 11
+< Connection: keep-alive
+< 
+{ [11 bytes data]
+* Curl_http_done: called premature == 0
+100    11  100    11    0     0     31      0 --:--:-- --:--:-- --:--:--    31
+* Connection #1 to host dev-spring-boot-elb-901372289.us-east-1.elb.amazonaws.com left intact
+* Rebuilt URL to: GET/
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0* Could not resolve host: GET
+* Closing connection 0
+curl: (6) Could not resolve host: GET
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 54.173.209.251...
+* TCP_NODELAY set
+* Connected to dev-spring-boot-elb-901372289.us-east-1.elb.amazonaws.com (54.173.209.251) port 80 (#1)
+> GET /api/exemplo/daniel HTTP/1.1
+> Host: dev-spring-boot-elb-901372289.us-east-1.elb.amazonaws.com
+> User-Agent: curl/7.52.1
+> Accept: */*
+> 
+< HTTP/1.1 200 
+< Date: Fri, 26 Jan 2018 18:55:18 GMT
+< Content-Type: text/plain;charset=UTF-8
+< Content-Length: 11
+< Connection: keep-alive
+< 
+{ [11 bytes data]
+* Curl_http_done: called premature == 0
+100    11  100    11    0     0     31      0 --:--:-- --:--:-- --:--:--    31
+* Connection #1 to host dev-spring-boot-elb-901372289.us-east-1.elb.amazonaws.com left intact
